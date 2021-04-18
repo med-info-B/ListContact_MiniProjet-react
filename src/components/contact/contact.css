@@ -1,0 +1,21 @@
+h1 {
+    font-size: 20px;
+    color : blue;
+    text-transform: uppercase;
+}
+
+
+.delete-Contact {
+    color : red;
+    float: right;
+    cursor: pointer;
+}
+
+.dropDown-Contact   {
+    margin-left: 10px;
+    color: blue;
+    cursor: pointer;
+}
+
+
+
